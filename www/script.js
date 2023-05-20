@@ -32,7 +32,7 @@ function menuIcon(div, divMost, icon, fun, cor) {
 };
 
 const ProductIntens = [];
-ProductIntens[0] = ['Boneco.png','Boneco Mbappe','10.00'];
-ProductIntens[1] = ['FunkoPop.png','FunkoPop Mbappe','10.00'];
-ProductIntens[2] = ['Sapato.png','Sapato Mbappe','10.00'];
-ProductIntens[3] = ['FilmeMbape.png','Filme Tartarugas ninjas','10.00'];
+ProductIntens[0] = ['Boneco.png','Boneco Mbappe','36.99'];
+ProductIntens[1] = ['FunkoPop.png','FunkoPop Mbappe','134.99'];
+ProductIntens[2] = ['Sapato.png','Sapato Mbappe','150.70'];
+ProductIntens[3] = ['FilmeMbape.png','Filme Tartarugas ninjas','35.00'];
